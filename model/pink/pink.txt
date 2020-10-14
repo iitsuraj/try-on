@@ -1,0 +1,7 @@
+https://glassesdbcached.jeeliz.com/sku/rayban_round_cuivre_pinkBrownDegrade
+https://appstatic.jeeliz.com/jeefit/models3D/7d99e062356ce9a615b93c2db6920cbfUV.json
+https://appstatic.jeeliz.com/jeefit/materials/_textures/rb_round_glasses.png
+https://appstatic.jeeliz.com/jeefit/materials/plastic/transparent.json
+https://appstatic.jeeliz.com/jeefit/materials/plastic/marronfonce.json
+https://appstatic.jeeliz.com/jeefit/materials/metals/rb_cuivre.json
+https://appstatic.jeeliz.com/jeefit/materials/glasses/rb_pinkbrowndegrade_round.json

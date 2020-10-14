@@ -1,0 +1,7 @@
+
+https://appstatic.jeeliz.com/jeefit/models3D/06d9589c1016243625283e54e79ee588UV.json
+https://appstatic.jeeliz.com/jeefit//materials/_textures/rb_aviator_glasses.png
+https://appstatic.jeeliz.com/jeefit/materials/plastic/transparent.json
+https://appstatic.jeeliz.com/jeefit/materials/plastic/transparent.json
+https://appstatic.jeeliz.com/jeefit/materials/metals/rb_or.json
+https://appstatic.jeeliz.com/jeefit/materials/glasses/rb_vertflash_aviator.json
