@@ -20117,8 +20117,8 @@ var JeeWidget = (function () {
     })(),
     Yc = {
       disableFallback: !0,
-      glassesDBURL: "http://localhost:5500/sku/",
-      appstaticURL: "http://localhost:5500/",
+      glassesDBURL: "http://localhost:8080/sku/",
+      appstaticURL: "http://localhost:8080/",
       fallbackURL: "https://fallbackglassesdb.jeeliz.com",
     },
     vc = {
@@ -20292,6 +20292,7 @@ var JeeWidget = (function () {
                     .then(function (hb) {
                       console.log(hb)
                       if (hb.error) return Fb();
+                      console.log(Qd)
                       Qd(la, hb.intrinsic, La);
                     })
                     .fail(Fb)
